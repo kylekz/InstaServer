@@ -1,0 +1,10 @@
+name: InstaServer
+author: Kaikz
+website: http://nope.avi
+description: Set the server list MOTD on the fly.
+main: kaikz.has.no.pancake.mix.main.InstaServer
+version: 1.1
+commands:
+  insta:
+    description: Base command for InstaServer.
+    usage: /<command> <options> ...
